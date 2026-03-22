@@ -17,7 +17,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School*
 
 ### Tecnologias e Ferramentas
 
-- **Linguagens & Web:** Python, HTML5, CSS3, JavaScript.
+- **Linguagens & Web:** Python, HTML5, CSS3, JavaScript, React, React Native & TypeScript.
 - **Hardware & IoT:** Experiência com projetos em Arduino (Sistemas de irrigação automatizada).
 - **Design & 3D:** Modelagem e Impressão 3D (Fusion 360, Nomad Sculpt).
 - **Banco de Dados:** Planejamento e estruturação de bancos de dados.
