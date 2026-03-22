@@ -11,7 +11,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School*
 ### Sobre Mim
 
 - Atualmente no segundo semestre de ADS, desenvolvendo bases sólidas em programação e arquitetura de sistemas.
-- Atuo como **Desenvolvedor Full-Stack** em projetos acadêmicos, com foco em **Database, DevOps e QA**.
+- Atuo como **Desenvolvedor Full-Stack** em projetos acadêmicos.
 - Tenho experiência prévia com Avaliação Veicular Ambiental (Programa Despoluir), o que me trouxe um olhar analítico e rigoroso para conformidade e processos.
 - 📍 Recife, PE.
 
