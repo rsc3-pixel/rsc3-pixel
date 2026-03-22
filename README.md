@@ -1,6 +1,7 @@
 <p align="center">
   <img src="fundo.png" alt="Renato Chong Cthulhu Dark Manga Tech Banner" width="100%">
 </p>
+
 # Olá, eu sou o Renato Santos Chong! 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School**, focado em criar soluções tecnológicas eficientes e inovadoras.
